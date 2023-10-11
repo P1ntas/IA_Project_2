@@ -21,3 +21,7 @@ To use the program, it is needed to open the Jupyter Notebook and run the comman
 - NumPy
 
 - scikit-learn
+
+After making sure you can use the program, all you need is to open the Jupyter Notebook and run the commmands.
+
+This is a data science model where we use various machine learning models to predict an outcome.
